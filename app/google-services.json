@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402714182105",
+    "firebase_url": "https://faniot-b5ca5.firebaseio.com",
+    "project_id": "faniot-b5ca5",
+    "storage_bucket": "faniot-b5ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402714182105:android:583a5c6db196733d",
+        "android_client_info": {
+          "package_name": "com.example.cpe_c5_win10.faniot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402714182105-drm2m68jdmcmp2sesr34n33e1c7orrer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cpe_c5_win10.faniot",
+            "certificate_hash": "d7d9c7226bbd1b6225bc788b09f752076d4e5a17"
+          }
+        },
+        {
+          "client_id": "402714182105-gbdhk5ug0leednkjfumkuo99la03osfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Z509qUe8DcuVtLlRGhbXhx4inl-MU5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402714182105-gbdhk5ug0leednkjfumkuo99la03osfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
